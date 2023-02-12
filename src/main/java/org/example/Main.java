@@ -40,6 +40,8 @@ public class Main {
             submit(httpClient, getHttpPost());
         }
         System.out.printf("hello world!");
+        System.out.printf("hello world!1");
+        System.out.printf("hello world!1");
     }
 
     private static void submit(CloseableHttpClient httpClient, HttpPost post) throws IOException {
