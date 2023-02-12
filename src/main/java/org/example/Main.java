@@ -42,6 +42,7 @@ public class Main {
         System.out.printf("hello world!");
         System.out.printf("hello world!1");
         System.out.printf("hello world!1");
+        System.out.printf("hello world!1");
         System.out.printf("hello world!1 ms-t");
     }
 
