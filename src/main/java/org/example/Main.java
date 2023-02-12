@@ -39,6 +39,7 @@ public class Main {
                 .build()) {
             submit(httpClient, getHttpPost());
         }
+        System.out.printf("hello world!");
     }
 
     private static void submit(CloseableHttpClient httpClient, HttpPost post) throws IOException {
